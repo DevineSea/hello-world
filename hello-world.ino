@@ -13,4 +13,5 @@ void setup() {
 void loop() {
   // Write 'Hello World' to Serial:
   Serial.print('Hello World');
+  delay(1000);
 }
